@@ -23,7 +23,8 @@
 - [Anoma.network](https://github.com/anoma).
   PoS blockchain with privacy.
 - [Aptos Network](https://github.com/aptos-labs).
-  Building the safest and most scalable Layer 1 blockchain..
+- [RustChain](https://github.com/Scottcjn/RustChain).
+  Proof-of-Antiquity blockchain where vintage hardware earns higher mining rewards. Ed25519 consensus, GPU hardware attestation. [rustchain.org](https://rustchain.org/)  Building the safest and most scalable Layer 1 blockchain..
 - [Bitcoin Cash](https://github.com/be-cash/bitcoin-cash).
   A library for creating and parsing Bitcoin Cash transactions.
 - [Casper](https://github.com/casper-network/casper-node).
