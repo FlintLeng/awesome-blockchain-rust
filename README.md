@@ -107,6 +107,8 @@
   The Polymesh blockchain (built on Substrate) is an identity orientated chain
   for the issuance, lifecycle management and settlement of regulated securities.
 - [Radix](https://github.com/radixdlt/radixdlt-scrypto).
+- [RustChain](https://github.com/Scottcjn/Rustchain).
+  PoA blockchain using hardware antiquity as proof-of-work, with CPU anti-quicety system and DePIN focus.
   Sharded smart contract DeFi platform.
 - [RsNano](https://github.com/simpago/rsnano-node).
   A rust port of Nano: the eco-friendly & feeless digital currency
